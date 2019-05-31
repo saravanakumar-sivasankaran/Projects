@@ -1,0 +1,7 @@
+D:\Saravanakumar S\Interview\TemplatePatten\TemplatePatten\bin\Debug\TemplatePatten.exe.config
+D:\Saravanakumar S\Interview\TemplatePatten\TemplatePatten\bin\Debug\TemplatePatten.exe
+D:\Saravanakumar S\Interview\TemplatePatten\TemplatePatten\bin\Debug\TemplatePatten.pdb
+D:\Saravanakumar S\Interview\TemplatePatten\TemplatePatten\obj\Debug\TemplatePatten.csprojAssemblyReference.cache
+D:\Saravanakumar S\Interview\TemplatePatten\TemplatePatten\obj\Debug\TemplatePatten.csproj.CoreCompileInputs.cache
+D:\Saravanakumar S\Interview\TemplatePatten\TemplatePatten\obj\Debug\TemplatePatten.exe
+D:\Saravanakumar S\Interview\TemplatePatten\TemplatePatten\obj\Debug\TemplatePatten.pdb
