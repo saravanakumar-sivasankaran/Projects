@@ -1,0 +1,27 @@
+<!--<ul class="nav nav-tabs" >
+    <li *ngFor="let service of app">
+       {{service.Name}}
+    </li>
+</ul>-->
+
+<table class="table11 table-hover">
+    <thead>
+        <th>
+            Name
+            
+        </th>
+        <th>
+            From
+        </th>
+        <th>
+            Created At
+        </th>
+    </thead>
+    <tbody>
+        <tr *ngFor="let service of app">
+            <td>{{service.Name}}</td>
+            <td>{{service.InvokeFrom}}</td>
+            <td>{{service.CreatedDate}}</td>
+        </tr>
+    </tbody>
+</table>
