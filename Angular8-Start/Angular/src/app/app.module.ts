@@ -16,7 +16,7 @@ import { EmployeeComponent } from './employee/employee.component';
     BrowserModule,
     RouterModule.forRoot([
       {
-        path:'Home', component:HomeComponent,
+        path:'Home', component:HomeComponent, 
       },
       {
         path:'Employee', component:EmployeeComponent,
